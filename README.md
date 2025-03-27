@@ -3,7 +3,7 @@ description: "Table of Contents"
 title: "C++ Reference"
 ms.date: 19/11/2023
 ms.topic: "conceptual"
-author: fejo-git
+author: Scriptz3r0
 ms.reviewer: ---
 ---
 
